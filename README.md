@@ -31,4 +31,6 @@ u={domofon:"switch.relay01_l2",salon:"switch.switch02_l1",kitchen:"switch.switch
 1:new h("switch/toggle","domofon"),2:new h("switch/toggle","salon"),3:new h("switch/toggle","kitchen"),4:new h("switch/toggle","toilet"),5:new h("switch/toggle","fan"),6:new h("switch/toggle","kran"),7:new h("switch/toggle","plita")};
 ```
 
+можно так же отредактировать файл index.html и вставить перед тегом </body> подсказки значений кнопок
+
 загрузите приложение через WebIDE
