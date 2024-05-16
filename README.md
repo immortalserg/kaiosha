@@ -1,6 +1,6 @@
 # HomeAssistant приложение для KaiOS
 
-!скрин(https://github.com/immortalserg/kaiosha/blob/main/kaiosha.png)
+![скрин](https://github.com/immortalserg/kaiosha/blob/main/kaiosha.png)
 
 сделано на основе https://github.com/davidsmfreire/kaios-ha
 
