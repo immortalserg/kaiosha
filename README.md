@@ -36,3 +36,5 @@ u={domofon:"switch.relay01_l2",salon:"switch.switch02_l1",kitchen:"switch.switch
 можно так же отредактировать файл index.html и вставить перед тегом </body> подсказки значений кнопок
 
 загрузите приложение через WebIDE
+
+в папке template пример main.bb899642.chunk.js можно использовать для приемра
